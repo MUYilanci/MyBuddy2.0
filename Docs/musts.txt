@@ -1,0 +1,11 @@
+login/register
+betaalgroep aanmaken
+owner kan toevoegen gebaseerd op e-mail = unique
+betaling aanmaken IEDEREEN
+	onderwerp
+	date
+	amount
+schuld
+	gekoppeld met schuld
+
+
